@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hey there👋, 
+I am Luigi, a Computer Science Engineer and Ph.D. student in Information and Communication Technologies (ICT) at Sapienza University of Rome.
+If you are interested in learning more about me, feel free to check out my personal website at https://luigisigillo.github.io/.
+
+
 [![Luigi's GitHub stats](https://github-readme-stats.vercel.app/api?username=luigisigillo)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **LuigiSigillo/luigisigillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
